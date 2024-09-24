@@ -1,4 +1,4 @@
-Hello! I’m Rodrigo Sasaki, a professional transitioning from digital marketing to data science. After years of experience in marketing strategies and data analysis, I decided to broaden my horizons and delve into the world of data, where I believe I can make a significant impact.
+Hello! I’m Rodrigo Sasaki, a professional transitioning from digital marketing to data science. After years of experience in marketing strategies and data analysis, I decided to broaden my horizons and delve into the world of data.
 
 I am currently pursuing a degree in Data Science, where I am learning valuable techniques in data analysis, machine learning, and data visualization. In addition to my academic training, I have been applying my knowledge to fictional projects, allowing me to explore and develop my practical skills.
 
